@@ -76,7 +76,7 @@ Several assumptions were made during the development of this model:
 
 ## Conclusion
 
-The implementation of the XGBoost algorithm for predicting Amazon movie review ratings proved effective, achieving an accuracy of approximately 57.7% on the sampled dataset, around 63% Through careful feature engineering, effective vectorization of textual data, and strategic model evaluation, I was able to leverage patterns within the dataset to enhance predictive performance. Future work will focus on further tuning, exploring more advanced text preprocessing techniques, and potentially experimenting with deep learning approaches.
+The implementation of the XGBoost algorithm for predicting Amazon movie review ratings proved effective, achieving an accuracy of approximately 57.7% on the sampled dataset, around 63% on testing dataset in kaggle. Through careful feature engineering, effective vectorization of textual data, and strategic model evaluation, I was able to leverage patterns within the dataset to enhance predictive performance. Future work will focus on further tuning, exploring more advanced text preprocessing techniques, and potentially experimenting with deep learning approaches.
 
 
 
